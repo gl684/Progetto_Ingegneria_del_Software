@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/immaginifinestrahome">
+        <file>views/9042808_menu_icon.svg</file>
+        <file>views/9042463_language_icon.svg</file>
+        <file>views/9042880_profile_circled_icon.svg</file>
+    </qresource>
+</RCC>
