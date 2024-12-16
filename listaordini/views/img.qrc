@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="immaginifinestrahome">
+    <file>25101_XCDaZO.jpeg</file>
+    <file>9042880_profile_circled_icon.svg</file>
+    <file>9042463_language_icon.svg</file>
+    <file>9042808_menu_icon.svg</file>
+  </qresource>
+</RCC>
