@@ -24,5 +24,5 @@ Nella documentazione del progetto sono previste anche funzionalità che consento
 una volta completata la propria fase di lavoro e aggiungere dettagli sullo svolgimento della fase stessa, utili alla corretta
 gestione della tipografia e ad una rapida revisione dello svolgimento delle attività da parte della direzione.
 
-Abbiamo utilizzato il linguaggio Python con la libreria PyQt5 per l'interfaccia grafica.
+E' stato utilizzato il linguaggio Python con la libreria PyQt5 per l'interfaccia grafica.
 La documentazione del progetto è tra i file della repository sotto la  voce Documentazione_progetto_software_tipografia.pdf
