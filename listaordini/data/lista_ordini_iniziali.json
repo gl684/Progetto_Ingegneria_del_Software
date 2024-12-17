@@ -1,0 +1,432 @@
+[
+    {
+        "nome_ordine": "MANIFESTO_A1_FESTA_CONTADINO_MONTIGNANO_2024",
+        "oggetto_ordine": "Manifesto A1",
+        "data_inizio": "01-04-2024",
+        "data_termine": "10-04-2024",
+        "stato": "completato",
+        "numero_fasi": 4,
+        "fasi": [
+            {
+                "numero_fase": 0,
+                "nome_fase": "Grafica",
+                "dettagli_fase": "La grafica ha svolto un controllo del file originale, un perfezionamento del file e ha impostato l'impaginazione su lastra",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "3h"
+            },
+            {
+                "numero_fase": 1,
+                "nome_fase": "Preparazione lastra",
+                "dettagli_fase": "lastra generata tramite macchina CPT",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "15m"
+            },
+            {
+                "numero_fase": 2,
+                "nome_fase": "Stampa litografica",
+                "dettagli_fase": "I tempi includono la preparazione della macchina",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "40m"
+            },
+            {
+                "numero_fase": 3,
+                "nome_fase": "Taglio",
+                "dettagli_fase": "Tutto ok",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "10m"
+            }
+        ]
+    },
+    {
+        "nome_ordine": "LIB_FONTANA_800P_2024",
+        "oggetto_ordine": "Libro",
+        "data_inizio": "01-08-2024",
+        "data_termine": "15-08-2024",
+        "stato": "in lavorazione",
+        "numero_fasi": 9,
+        "fasi": [
+            {
+                "numero_fase": 0,
+                "nome_fase": "Grafica",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 1,
+                "nome_fase": "Preparazione lastra",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in corso",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 2,
+                "nome_fase": "Stampa offset",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 3,
+                "nome_fase": "Rilegatura a foglio",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 4,
+                "nome_fase": "Taglio",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 5,
+                "nome_fase": "Stampa offset copertina",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 6,
+                "nome_fase": "Stampa a caldo copertina",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 7,
+                "nome_fase": "Taglio copertina",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 8,
+                "nome_fase": "Legatura",
+                "dettagli_fase": null,
+                "esternalizzata": true,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            }
+        ]
+    },
+    {
+        "nome_ordine": "LIB_ROSSI_200P_SCUOLA_2024",
+        "oggetto_ordine": "Libro",
+        "data_inizio": "10-08-2024",
+        "data_termine": "25-08-2024",
+        "stato": "in attesa",
+        "numero_fasi": 8,
+        "fasi": [
+            {
+                "numero_fase": 0,
+                "nome_fase": "Grafica",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 1,
+                "nome_fase": "Preparazione lastra",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 2,
+                "nome_fase": "Stampa offset",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 3,
+                "nome_fase": "Rilegatura a foglio",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 4,
+                "nome_fase": "Taglio",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 5,
+                "nome_fase": "Stampa offset copertina",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 6,
+                "nome_fase": "Taglio copertina",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 7,
+                "nome_fase": "Legatura",
+                "dettagli_fase": null,
+                "esternalizzata": true,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            }
+        ]
+    },
+    {
+        "nome_ordine": "BDV_BOSCO_2024",
+        "oggetto_ordine": "Biglietto da visita",
+        "data_inizio": "01-09-2024",
+        "data_termine": "05-09-2024",
+        "stato": "in attesa",
+        "numero_fasi": 4,
+        "fasi": [
+            {
+                "numero_fase": 0,
+                "nome_fase": "Grafica",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 1,
+                "nome_fase": "Preparazione lastra",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 2,
+                "nome_fase": "Stampa offset",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 3,
+                "nome_fase": "Taglio",
+                "dettagli_fase": null,
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            }
+        ]
+    },
+    {
+        "nome_ordine": "CALENDARIO_2025_500P",
+        "oggetto_ordine": "Calendario",
+        "data_inizio": "15-09-2024",
+        "data_termine": "30-09-2024",
+        "stato": "in lavorazione",
+        "numero_fasi": 6,
+        "fasi": [
+            {
+                "numero_fase": 0,
+                "nome_fase": "Grafica",
+                "dettagli_fase": "Impostazione del layout dei mesi e inserimento delle festività.",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "4h"
+            },
+            {
+                "numero_fase": 1,
+                "nome_fase": "Preparazione lastra",
+                "dettagli_fase": "Produzione delle lastre per stampa offset.",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "20m"
+            },
+            {
+                "numero_fase": 2,
+                "nome_fase": "Stampa offset",
+                "dettagli_fase": "Stampa dei fogli di calendario con preparazione macchina.",
+                "esternalizzata": false,
+                "stato_fase": "in corso",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 3,
+                "nome_fase": "Taglio",
+                "dettagli_fase": "Taglio delle pagine del calendario.",
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 4,
+                "nome_fase": "Rilegatura a spirale",
+                "dettagli_fase": "Inserimento della spirale per un calendario da parete.",
+                "esternalizzata": true,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            }
+        ]
+    },
+    {
+        "nome_ordine": "CARTOLINE_PROMOZIONALI_FOTOGRAFO_2024",
+        "oggetto_ordine": "Cartolina promozionale",
+        "data_inizio": "05-06-2024",
+        "data_termine": "12-06-2024",
+        "stato": "completato",
+        "numero_fasi": 5,
+        "fasi": [
+            {
+                "numero_fase": 0,
+                "nome_fase": "Grafica",
+                "dettagli_fase": "Creazione del design della cartolina con il messaggio promozionale.",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "2h"
+            },
+            {
+                "numero_fase": 1,
+                "nome_fase": "Preparazione lastra",
+                "dettagli_fase": "Realizzazione delle lastre per la stampa offset.",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "30m"
+            },
+            {
+                "numero_fase": 2,
+                "nome_fase": "Stampa offset",
+                "dettagli_fase": "Stampa delle cartoline su carta patinata.",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "1h"
+            },
+            {
+                "numero_fase": 3,
+                "nome_fase": "Taglio",
+                "dettagli_fase": "Taglio delle cartoline secondo le dimensioni standard.",
+                "esternalizzata": false,
+                "stato_fase": "completata",
+                "resoconto_fase": null,
+                "durata_fase": "20m"
+            }
+        ]
+    },
+    {
+        "nome_ordine": "BROCHURE_ZARA_AUTUNNO_2024",
+        "oggetto_ordine": "Brochure",
+        "data_inizio": "01-10-2024",
+        "data_termine": "15-10-2024",
+        "stato": "in lavorazione",
+        "numero_fasi": 7,
+        "fasi": [
+            {
+                "numero_fase": 0,
+                "nome_fase": "Grafica",
+                "dettagli_fase": "Creazione del design per la brochure autunnale.",
+                "esternalizzata": false,
+                "stato_fase": "in corso",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 1,
+                "nome_fase": "Revisione",
+                "dettagli_fase": "Verifica del contenuto con il cliente.",
+                "esternalizzata": true,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 2,
+                "nome_fase": "Preparazione lastra",
+                "dettagli_fase": "Realizzazione delle lastre per la stampa.",
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 3,
+                "nome_fase": "Stampa offset",
+                "dettagli_fase": "Stampa della brochure su carta patinata.",
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 4,
+                "nome_fase": "Piegatura",
+                "dettagli_fase": "Piegatura della brochure in formato a tre ante.",
+                "esternalizzata": false,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            },
+            {
+                "numero_fase": 5,
+                "nome_fase": "Rilegatura",
+                "dettagli_fase": "Rilegatura tramite cucitura a punto metallico.",
+                "esternalizzata": true,
+                "stato_fase": "in attesa",
+                "resoconto_fase": null,
+                "durata_fase": null
+            }
+        ]
+    }
+]
